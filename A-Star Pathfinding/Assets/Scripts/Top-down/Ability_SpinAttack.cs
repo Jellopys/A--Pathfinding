@@ -1,0 +1,12 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Ability_SpinAttack : Ability
+{
+    
+    public override void CastAbility()
+    {
+
+    }
+}
